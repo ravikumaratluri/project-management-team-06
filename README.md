@@ -90,10 +90,18 @@ Community Hospital Fairfax has decided to bring a drastic change in their hospit
     <td>User</td>
     <td>6608530237</td>
   </tr>
+  <tr>
     <td>Vamshi Krishna Yellamanchili</td>
     <td>team Lead</td>
     <td>Internal</td>
     <td>lead</td>
     <td>6608530667</td>
-  
+  </tr>
+  <tr>
+   <td>Sandeep Devineni</td>
+    <td>team member/td>
+    <td>Internal</td>
+    <td>Development</td>
+    <td>6608530667</td>
+  </tr>
 </table>
