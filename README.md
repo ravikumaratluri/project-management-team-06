@@ -1,35 +1,32 @@
-# Project Title: Instantaneous Medical Software Applications.
-
-## Scenario: 
-Origin Infotech was established in 2017. They have an immense success ratio in providing IOT designs and tools. Community Hospital Fairfax has approached them for designing and implementing a software application to monitor the IOT devices throughout the hospital.
+# Project Title: Learning Tool Development
 
 ## Product Description:
-Community Hospital Fairfax has decided to bring a drastic change in their hospital health record maintaining. They are looking for the devices like blood pressure cuffs and glucometers that collect the data from the patient based on vital signs. The collection of data is automated fashion that allows to intervene the patients earlier in the process. Along with these they are also decided to bring the devices for patients. A device like wristband given to newborns, so that it is easy to tract their location at any time and allows automatically closing an exit or elevator doors when they are reaching them. To regulate and monitor these tools hosiptal has requested a software application.
+Origin Info Tech are leading software developing company. There are well known for their interactive website development. Amrita Sai Educational Institutions, Vijayawada requested them for developing an interactive website for learning Project Management in Business and Technology course especially concentrating on ten knowledge areas and five process groups along with 49 processes. The website should be interactive for students in learning 49 process groups. The website should contain a log in portal, where students can login with their user credentials. After the login portal, students are driven to the screen containing their performance status, completed tasks, upcoming tasks and quizzes. For each of processes there should be a separate static web page explaining the process completely with case studies and respective tools used in the processes. For motivating students, a high scores board is maintained on screen. Scores for each students are tracked by theirs performance in quizzes and exams. Overall the website should contain the complete information about processes, so that students can easily habituated in learning them.
 
-## Team Name : Community Real Time Works. 
-## Team Members 
+## Team Name : Interactive Learning Website Developers.
+## Team Member names:  
 1. Ravi Kumar Atluri
 2. Midhun Kandakatla
 3. Vamshi Krishna Yellamanchili
 4. Sandeep Devineni
 
-## Client: Community Hospital Fairfax (Midhun Kandakatla acting as client)
+## Client: Amrita Sai Educational Institutions Vijayawada.
 
 ## Team Logo
 ![team work logo](logo.jpg)
 
 ## Project Charter
 
-### Project Title : Working from Origin
+### Project Title : Learning Tool Development
 ### Project Start Date: 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projected Finish Date: 05/31/19
 ### Budget Information: $10M
 
 ### Project Manager: Ravi Kumar Atluri
 ### Project Objectives:
-  To create a software application for the IOT devices requested by client
+  To create an interactive website for students in learning the Project Management in Business and Technology.
 ### Approach: Agile-Scrum Methodology.
 
-### Roles and Responsibilities:
+### Roles:
 
 <table>
   <tr>
