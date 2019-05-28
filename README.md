@@ -13,7 +13,7 @@ Origin Info Tech are leading software developing company. There are well known f
 ## Client: Amrita Sai Educational Institutions Vijayawada.
 
 ## Team Logo
-![team work logo](logo.jpg)
+![team work logo](logo.png)
 
 ## Project Charter
 
