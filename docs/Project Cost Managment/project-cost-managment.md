@@ -7,7 +7,7 @@ Project Cost Management includes the processes required to ensure that the proje
 4. Controlling the cost — It controls the changes done to the project.
 
 The budget of the project is $26,057.The project manager will allocate the budget to each and every department accordingly based on the requirements by each department. 
-26% of total budget is allocated to project management,7% for hardware and 38% for software.Most of the project budget is allocated for software developement.
+77% of total budget is allocated to project Execution,4.38% for hardware and around 10% for Intiating and Planning. Most of the project budget is allocated for Project Execution.
 # Detailed Cost Estimation and Budget:
 The detailed cost estimation is in the below link: <br> 
 https://docs.google.com/spreadsheets/d/1uKbGP7kXAaTCLkaxeJrtNZmCfCQFIdK3Zl5INwi0akU/edit?usp=sharing
