@@ -5,7 +5,7 @@
 Team member roles in completing the expected output.
 
 
-ID |Responsible task |Ravi Kumar Atluri| Midhun Kandakatla | Vamshi Krishna Yellamanchili | Sandeep Devineni |
+ID |Responsible task |Ravi Kumar Atluri| Vamshi Krishna Yellamanchili | Midhun Kandakatla | Sandeep Devineni |
 ---|---|---|---|---|---|
 1 | **Initiation** |<p>RP</p>| |<p>P</p>| |
 2 | **Planning**   |<p>RP</p>| | |<p>P</p>|
