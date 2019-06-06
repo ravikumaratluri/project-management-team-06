@@ -22,6 +22,7 @@
 3 **Budget & Schedule**:
 
 We have to monitor the budget and schedule on a reglar basis througout the project. Tools like Gnatt charts help us to monitor shcedule and also there are tools to monitor budget.
+
 4 **Risk Categories**: 
 
 During a project, there may be many risks involved. We will categoriz rthe risks as the following : 
