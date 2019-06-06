@@ -25,11 +25,11 @@ P=Performing member in the project <br/>
 
 ID|Test Phase|Ravi Kumar Atluri(User Page)|Midhun Kandakatla(Home Page)|Vamshi Krishna Yellamanchili(Process Matrix)|Sandeep Devineni(Quiz Portal)|
 ---|---|---|---|---|---|
-1 | **Test Plan** |<p>A</p>|<p>R</p>|<p>C</p>|<p>I</p>|
+1 | **Test Plan** |<p>A</p>|<p>C</p>|<p>C</p>|<p>I</p>|
 2 | **Unit Test**  |<p>R</p>|<p>A</p>|<p>C</p>|<p>I</p>|
-3 | **Integration Test**|<p>C</p>|<p>I</p>|<p>A</p>|<p>R</p> |
+3 | **Integration Test**|<p>C</p>|<p>C</p>|<p>A</p>|<p>R</p> |
 4 | **System Test**| <p>I</p>|<p>I</p> |<p>R</p>|<p>A</p> |
-5 | **User Acceptance Test**|<p>C</p> | <p>R</p>|<p>I </p>| <p>R</p>|
+5 | **User Acceptance Test**|<p>I</p> | <p>R</p>|<p>C </p>| <p>R</p>|
 
 R = Responsibility<br/>
 A = Accountability<br/>
