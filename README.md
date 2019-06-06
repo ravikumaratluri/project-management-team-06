@@ -19,7 +19,7 @@ Origin Info Tech are leading software developing company. There are well known f
 
 ### Project Title : Learning Tool Development
 ### Project Start Date: 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projected Finish Date: 05/31/19
-### Budget Information: $10M
+### Budget Information: $26,057
 
 ### Project Manager: Ravi Kumar Atluri
 ### Project Objectives:
