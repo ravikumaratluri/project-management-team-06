@@ -5,16 +5,16 @@
 Team member roles in completing the expected output.
 
 
-ID|Ravi Kumar Atluri| Midhun Kandakatla | Vamshi Krishna Yellamanchili | Sandeep Devineni |
----|---|---|---|---|
-1 | **Initiation** | |<p>RP</p>| |
-2 | **Planning**   | | |<p> RP</p>|
-3 | **Design**|<p>P</p>|<p>R</p>| |
-4 | **Development**|<p>R</p>| | <p>P</p>|
-5 | **Testing**|<p>R</p>| | <p>P</p>|
-6 | **Deployment or Release**| <p>R</p>| |<p>P</p> |
-7 | **Defect fixing**| | <p>R</p>|<p>P</p>|
-8 | **Enhancements**|<p>P</p> |<p>R</p> | |
+ID |Responsible task |Ravi Kumar Atluri| Midhun Kandakatla | Vamshi Krishna Yellamanchili | Sandeep Devineni |
+---|---|---|---|---|---|
+1 | **Initiation** |<p>RP</p>| |<p>P</p>| |
+2 | **Planning**   |<p>RP</p>| | |<p>P</p>|
+3 | **Design**| |<p>P</p>|<p>R</p>| |
+4 | **Development**||<p>R</p>| | <p>P</p>|
+5 | **Testing**| |<p>R</p>| | <p>P</p>|
+6 | **Deployment or Release**|<p>R</p>| <p>R</p>| |<p>P</p> |
+7 | **Defect fixing**| | | <p>R</p>|<p>P</p>|
+8 | **Enhancements**|<p>RP</p>|<p>P</p> |<p>R</p> | |
 
 R=Responsible member in the project <br/>
 P=Performing member in the project <br/>
